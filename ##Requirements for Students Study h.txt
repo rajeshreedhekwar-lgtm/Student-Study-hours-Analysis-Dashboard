@@ -1,0 +1,8 @@
+##Requirements for Students Study hours Analysis Dashboard
+
+Pandas
+Matplotlib
+Microsoft Excel
+NumPy 
+Openpyxl
+Python
